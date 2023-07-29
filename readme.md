@@ -2,12 +2,13 @@
 
 - [Introduction](#introduction)
 - [Week 1](#week-1-ideationprocess-sketchbook)
-- [Week 2](#week-2-topic)
-- [Week 3](#week-3-topic)
-- [Week 4](#week-4-topic)
-- [Week 5](#week-5-topic)
-- [Week 6](#week-6-topic)
-- [Week 7](#week-7-topic)
+- [Week 2](#week-2-Mindmap&Ideation)
+- [Week 3](#week-3-ArtofNoticing)
+- [Week 4](#week-4-WhatisCreativity?)
+- [Week 5](#week-5-EmpathyFuelsConnection)
+- [Week 6](#week-6-DataCollecting)
+- [Week 7](#week-7-CreativeProblemSolving)
+- [Week 8](#week-8-CreativityandtheUnconscious)
 - [Conclusion](#conclusion)
 - [Rubric](#rubric)
 
@@ -136,7 +137,7 @@ After a month, a passing ship saw our distress signals, leading to our rescue. E
 
 ---
 
-## Week 2: [Topic]
+## Week 2: [Mindmap & Ideation]
 ### June 19, 2023
 <details>
 <summary>Main Ideas</summary>
