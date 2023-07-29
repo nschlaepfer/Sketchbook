@@ -196,8 +196,7 @@ _Describe how your concepts evolved for this project._
 
 <details>
 <summary>Assignments</summary>
-
-
+<img width="1460" alt="Screenshot 2023-06-14 at 9 54 59 PM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/6794730c-46aa-44e7-94ac-78e0e533a183">
 </details>
 
 
