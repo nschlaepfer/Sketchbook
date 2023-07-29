@@ -94,7 +94,7 @@ _Assignment details._
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+Im starting to learn photoshop generative fill and im excited to learn how I can make art with it. What is it? It is a stable diffussion AI model that can gerate and interact with multiple laters to manipulate the area selected by the user. This can be endnless possibilities. 
 
 </details>
 
@@ -102,7 +102,7 @@ _Describe how your concepts evolved for this project._
 <summary>Daily Thoughts</summary>
 
 - **Quotes:** "The computer is a bicycle for the mind" - Steve Jobs
-- **Key Points:** Your key points here.
+- **Key Points:** Creativity is more than meets the eye.
 - **Planning:** Wanting to learn how to use photoshop again. Excited because of new AI tools.
 
 </details>
@@ -174,7 +174,8 @@ what the world presents and noticing what matters to you.
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+My first photoshop project is a cover of my sketch book (not sure the format yet.)
+I put my first geeration in my viaul section. Im going to do one every week now. The first one like I said is the cover of my sketch book Ive been playing around with this font and I really like it. I like using white background it feels very pure. 
 
 </details>
 
@@ -183,13 +184,16 @@ _Describe how your concepts evolved for this project._
 
 - **Quotes:** Your quotes here.
 - **Key Points:** Your key points here.
-- **Planning:** Your planning notes here.
+- **Planning:** I want to make a sketchbook art work for every week. 
 
 </details>
 
 <details>
 <summary>Visuals</summary>
 
+![sketchbook1](https://github.com/nschlaepfer/Sketchbook/assets/44988633/aa9137e3-fddf-47f8-a9d2-c5894e919ef1)
+
+_Note: This has a higher quality version._
 
 
 </details>
@@ -233,7 +237,7 @@ Three things I Could use for my creative process after reading the provided pdf.
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+For this week I want to blend realites and showcase my interpreation of lateral and vertical thinking with genrative fill.
 
 </details>
 
@@ -242,7 +246,7 @@ _Describe how your concepts evolved for this project._
 
 - **Quotes:** Your quotes here.
 - **Key Points:** Thinking in different dimentions requires step by step thinking.
-- **Planning:** Your planning notes here.
+- **Planning:** I am currently working on many github projects. Still planning how to do next weeks sketchbook photo shop.
 
 </details>
 
@@ -250,6 +254,7 @@ _Describe how your concepts evolved for this project._
 <summary>Visuals</summary>
 
 ![image](https://github.com/nschlaepfer/Sketchbook/assets/44988633/53a4a6f3-6b51-4f02-bba2-ec6f0ce21a87)
+![Sketchbook2](https://github.com/nschlaepfer/Sketchbook/assets/44988633/361bbe40-f82d-4ac5-9f14-8f7ad5461792)
 
 
 </details>
@@ -292,7 +297,7 @@ The greatest such network in existence is, of course, the World Wide Web, where 
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+This week I want my sketchbook to showcase different 3D physical space we experience as humans and there are only two of them. Natural and Engineered. I think these are the only spaces we can experience right not. I think engineered is anything that is made by humans to change and adapt into useable liviable space I tried to be unique and creative this art creation. 
 
 </details>
 
@@ -301,16 +306,15 @@ _Describe how your concepts evolved for this project._
 
 - **Quotes:** “Creativity is contagious, pass it on” – Albert Einstein
 - **Key Points:** Your key points here.
-- **Planning:** Your planning notes here.
+- **Planning:** Im currently looking for my first jobs and I am hopeing to find one where I can leverage my creativity. 
 
 </details>
 
 <details>
 <summary>Visuals</summary>
 <img width="595" alt="Screen Shot 2022-06-26 at 11 31 53 PM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/b540f27b-df31-454e-a287-44d36095bf21">
-
-
-
+![Sketchbook3](https://github.com/nschlaepfer/Sketchbook/assets/44988633/4e293e8e-813c-4d02-b452-7f1d784d8de8)
+Above is my take on physical spaces.
 </details>
 
 <details>
@@ -357,7 +361,7 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+This week I wan to focus on creating an art piece of my intrest and crocessection on current discussion and stigma of UFOs. I believe in UFOs but not aliens. I have been very fascinatted on the topic and I really enjoy the open discussion. I still believe in scientific rigor and processes. 
 
 </details>
 
@@ -372,7 +376,8 @@ _Describe how your concepts evolved for this project._
 
 <details>
 <summary>Visuals</summary>
-
+![Sketchbook4](https://github.com/nschlaepfer/Sketchbook/assets/44988633/f62cbc6e-d56b-488e-8f2f-3e30a14b30c5)
+My weekly project of learning art (description is above.)
 
 
 </details>
@@ -391,7 +396,7 @@ _Describe how your concepts evolved for this project._
 <summary>Main Ideas</summary>
 
 - Idea 1: Failure is Good
-- Idea 2: 
+- Idea 2: Oberserving
 - ...
 
 </details>
@@ -415,22 +420,71 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
-- **Key Points:** Your key points here.
-- **Planning:** Your planning notes here.
+- **Quotes:** 'Please, Try To Be Fair' - Surya Bonaly
+- **Key Points:** Standing up for the right thing at the right time.
+- **Planning:** My next art work could be on observation. I like the idea of finding waldo or picture that makes the user look. I made two this week and 
 
 </details>
 
 <details>
 <summary>Visuals</summary>
+![Sketchbook5](https://github.com/nschlaepfer/Sketchbook/assets/44988633/fde8ef14-1bb2-4dd5-a4b8-757b60a89841)
 
+![Untitled-2](https://github.com/nschlaepfer/Sketchbook/assets/44988633/baf08aea-013c-41de-bfa2-ffc42e0ca241)
 
 
 </details>
 
 <details>
 <summary>Assignments</summary>
+Here is my assingment this week: 
+   Collecting Data
+Collecting Data
+An individual I find it challenging to understand from my perspective is someone who holds starkly contrasting political views. For instance, someone
+who supports a political party or leader that I strongly disagree with, like Donald Trump.
+To gain insight, I could seek their assistance on political matters, such as guidance on voting in an upcoming election, involvement in a social
+movement, or resolving conflicts with friends or family members who hold opposing views. I could also seek advice on navigating political aspects of
+business.
+As long as their suggestions are not harmful, illegal, or unethical, I would be open to following their guidance. This may involve listening to their
+arguments, exploring their sources, consuming their media, attending their events, or implementing their advice. Throughout this process, I would
+strive to maintain an open-minded and respectful attitude, even if I ultimately do not agree with them.
+To document my experience, I would write a reflection or create a video that outlines the lessons I learned from the interaction. This documentation
+would include the following points:
+The specific problem I sought help with and the reasons behind my choice.
+Details about the person I approached for assistance and the method I used to connect with them.
+The solution they proposed and how they explained it to me.
+The actions I took to implement their solution and the outcomes I observed.
+My emotional state during and after the interaction, including any feelings of anger, frustration, curiosity, empathy, or surprise.
+The insights I gained from the interaction, such as any shifts in perspective or understanding of the issue or the person. Additionally, any
+challenges to my assumptions or beliefs and any inspiration to take action or make changes.
+-The overall impact of the experience on my own personal growth and development.
+Any future steps or actions I plan to take based on what I learned from this interaction.
+A final reflection on the importance of engaging with individuals who hold opposing views, even if it may be challenging or uncomfortable.
+By documenting my experience in this way, I can not only gain a deeper understanding of someone like Donald Trump and their supporters, but also
+share my insights with others who may be interested in bridging political divides and fostering respectful dialogue
 
+Post: 
+
+Things of conflict	Things of America	Overall Well being	Learning and study	The education system
+Gender	Privacy	Time	Subject	Degree
+Society	Freedom	Sleep	Learning	Campus
+Gender	Friends	Food	Research 	Teachers
+Religion	Transportation	Friends	Laboratory	Students
+Culture		Growth		Classes
+Family		Understanding		Grades
+Influence 		Productivity		Tuition
+Logic		Nature		Subject
+ 
+
+Notes:
+
+1. Organized by category
+
+2. Realized lot of overlap
+
+3. Divided and conquer based off of personal viability 
+
+4. Observed disproportions between category. 
 </details>
 
 ## Week 7: [Creative Problem Solving]
@@ -438,8 +492,8 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: Design thinking
+- Idea 2: Prototyping
 - ...
 
 </details>
@@ -447,23 +501,23 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Notes</summary>
 
-- **Key Terms:** Definitions here.
-- **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Key Terms:** A prototype is a simple experimental model of a proposed solution used to test or validate ideas, design assumptions and other aspects of its conceptualisation quickly and cheaply, so that the designer/s involved can make appropriate refinements or possible changes in direction.
+- **Class Notes:** Watch this video on Design Thinking: https://youtu.be/0V5BwTrQOCs
+- **Reading Notes:** My fav section so far. I love design.
 
 </details>
 
 <details>
 <summary>Concept Evolution</summary>
 
-_Describe how your concepts evolved for this project._
+This week I wanted to make a  something more sensical than last week. i want to show case a story thought images maybe for an advertisement. I like the idea of making pancakes, there is something satisying wehn pouring a perfect pancak. 
 
 </details>
 
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
+- **Quotes:** Failure can be good and bad. 
 - **Key Points:** Your key points here.
 - **Planning:** Your planning notes here.
 
@@ -472,12 +526,20 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Visuals</summary>
 
+![Sketchbook6](https://github.com/nschlaepfer/Sketchbook/assets/44988633/3850aff9-f080-45bf-b5a4-a5262d61bc89)
 
 
 </details>
 
 <details>
 <summary>Assignments</summary>
+Here are the visual form my design thinking for my friends band using the processes outlined in the assignment. 
+![logo](https://github.com/nschlaepfer/Sketchbook/assets/44988633/fa4e8d69-bb47-4d8b-93b5-e578f22d9264)
+
+![logo](https://github.com/nschlaepfer/Sketchbook/assets/44988633/bd8cb1bb-e5a5-4335-9de3-c9df0457953a)
+
+![Untitled-1](https://github.com/nschlaepfer/Sketchbook/assets/44988633/18c55e02-f9f1-42fe-a672-96fd880408d2)
+
 
 </details>
 
@@ -487,8 +549,8 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: What is inspiration
+- Idea 2: What is surreal
 - ...
 
 </details>
@@ -497,15 +559,14 @@ _Describe how your concepts evolved for this project._
 <summary>Notes</summary>
 
 - **Key Terms:** Definitions here.
-- **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Class Notes:** The researchers aren’t sure how to explain their results; they suggest a “spontaneous tagging process” takes place when an idea is generated unconsciously, alerting us to its level of creativity. While admitting this theory is speculative, they note that — whatever its cause — this sort of discernment is “vitally important for everyday creativity.”
+- **Reading Notes:** Unconcious experinces of dream like stats allow for a unique insight on how creative juices flow. Science. 
 
 </details>
 
 <details>
 <summary>Concept Evolution</summary>
-
-_Describe how your concepts evolved for this project._
+This week is the last week and I have been slacking on working on my art. Im not sure for this week what I am going to do. Im going to let my mind go in child like state. 
 
 </details>
 
@@ -521,17 +582,21 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Visuals</summary>
 
+![Sketchbook7](https://github.com/nschlaepfer/Sketchbook/assets/44988633/dc1b8315-7f1e-423b-8a80-37a231741188)
 
-
+I for some reason thought ice cude in a ice cube would be funny and cooooool. (pun). I also would like to bring attention to the font placement. I for some reason really liked that. 
 </details>
 
 <details>
 <summary>Assignments</summary>
+![1690502360 408345](https://github.com/nschlaepfer/Sketchbook/assets/44988633/44c9ca0f-fd91-48a4-903e-568ed42b6083)
 
 </details>
 
 ## Conclusion
 _Final thoughts and reflections on the course._
+This has been  a really fun cousres. I forced my self to think outside the box. I enjoy reading and watching videos on creativity. I orginally was taking courses at UCCS as a bachelor of Innovation student. I really enjoyed those classes and love that I am ending my computer science degeree at CU denver taking a class on creativity. It has come to my thought that eveyone has the ability to be creative and create things in a innovative way. I believe learning the tools help alot. 
+
 
 [Back to Top](#sketchbook-)
 
