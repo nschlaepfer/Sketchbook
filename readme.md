@@ -1,15 +1,15 @@
 # Sketchbook 🎨
 
-[[Introduction]]
-[[Week 1]]
-[[Week 2]]
-[[Week 3]]
-[[Week 4]]
-[[Week 5]]
-[[Week 6]]
-[[Week 7]]
-[[Conclusion]]
-[[Rubric]]
+- [Introduction](#introduction)
+- [Week 1](#week-1-ideationprocess-sketchbook)
+- [Week 2](#week-2-topic)
+- [Week 3](#week-3-topic)
+- [Week 4](#week-4-topic)
+- [Week 5](#week-5-topic)
+- [Week 6](#week-6-topic)
+- [Week 7](#week-7-topic)
+- [Conclusion](#conclusion)
+- [Rubric](#rubric)
 
 ---
 
