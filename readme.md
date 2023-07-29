@@ -39,8 +39,8 @@ The sketchbook is a creative collection of thoughts, ideas, research, and artist
 
 - **A Space for Creativity:** The sketchbook is not just a collection of images or drawings. It includes thoughts, quotes, planning, brainstorming, and reflections that fuel design and innovation.
 - **Diverse Content:** From sketches and doodles to class notes, technical demonstration, and contemporary works, the sketchbook is an aesthetic melting pot.
-- **A Personal Journey:** The sketchbook embodies personal goals, time management strategies, project development, and individual explorations on issues that matter.
-- **Archival:** All the content can be converted into a PDF file for easy sharing and preservation.
+- **A Personal Journey:** The sketchbook embodies personal goals, time management strategies, project development, and individual explorations on issues that matter. I want to learn how to be more creative and showcase my progress through art work made in photoshop.
+- **Archival:** All the content can be converted into a PDF file for easy sharing and preservation and posted to my github to host the files.
 
 ---
 
@@ -178,8 +178,8 @@ After a month, a passing ship saw our distress signals, leading to our rescue. E
 <details>
 <summary>Notes</summary>
 
-- **Key Terms:** Definitions here.
-- **Class Notes:** Your class notes here.
+- **Key Terms:** Mindmap, 
+- **Class Notes:** [our class notes here.](http://www.inspiration.com/visual-learning/mind-mapping)
 - **Reading Notes:** **What is Mind Mapping?**
 
 Mind mapping is a visual form of note taking that offers an overview of a topic and its complex information, allowing students to comprehend, create new ideas and build connections. Through the use of colors, images and words, mind mapping encourages students to begin with a central idea and expand outward to more in-depth sub-topics. ([linkLinks to an external site.](http://www.inspiration.com/visual-learning/mind-mapping))
@@ -209,8 +209,14 @@ I put my first geeration in my viaul section. Im going to do one every week now.
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
-- **Key Points:** Your key points here.
+- **Quotes:** "Through the use of colors, images and words, mind mapping encourages students to begin with a central idea and expand outward to more in-depth sub-topics"
+- **Key Points:** Mind mapping can be helpful when organizing ideas ...
+
+Writing papers
+Studying for tests
+Solving a business problem
+Helping to build out your goals
+Figure out areas to improve your skills
 - **Planning:** I want to make a sketchbook art work for every week. 
 
 </details>
@@ -256,8 +262,8 @@ Three things I Could use for my creative process after reading the provided pdf.
 <summary>Notes</summary>
 
 - **Key Terms:** Lateral thinking: step by step contrasts lateral and vertical thinking.
-- **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Class Notes:** Don't Forget to upload discussion post and assignment. And Personal Art work in photoshop.
+- **Reading Notes:** In The New Yorker by Louis Menand entitled Faking It: Literary Hoaxes and the Ethics of Authorship. Menand states that Literature professors...thought of identity as something that was hybrid...the idea that you could draw a straight line from the text back to some fixed knowable entity called "the author" was naive. So was the idea that you could draw a straight line from the text outward to some eternal stuff called "reality". 1
 
 </details>
 
@@ -271,7 +277,7 @@ For this week I want to blend realites and showcase my interpreation of lateral 
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
+- **Quotes:** You must be right at each stage in order to achieve a correct solution
 - **Key Points:** Thinking in different dimentions requires step by step thinking.
 - **Planning:** I am currently working on many github projects. Still planning how to do next weeks sketchbook photo shop.
 
@@ -395,9 +401,9 @@ This week I wan to focus on creating an art piece of my intrest and crocessectio
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
-- **Key Points:** Your key points here.
-- **Planning:** Your planning notes here.
+- **Quotes:** One imagines that in a field like molecular biology, great discoveries are made by peering through a microscope. Strikingly, it turned out the most important ideas arose during regular lab meetings, where the scientists informally discussed their work.
+- **Key Points:** Innovation and evolution thrive in large networks, Collaboration is at least as important a driver of innovation as competition.
+- **Planning:** Continuing to progress ideas and thoughts. I am currently looking for full time jobs so with that going on its hard to ground myself back into a child like flow state to be creative. Which is my favorite state. Something about applying to jobs that AI bots filter out key words is so de humanizing and hampers my creativity. 
 
 </details>
 
@@ -431,15 +437,15 @@ My weekly project of learning art (description is above.)
 <details>
 <summary>Notes</summary>
 
-- **Key Terms:** Definitions here.
-- **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Key Terms:** A survey of Nobel failure.
+- **Class Notes:** Watch the netflix series "Losers" looks intresting.
+- **Reading Notes:** Bonaly: "It happened too much. Also, because I was a woman. I think if I would have been a man and did the same thing, it would have been OK, because, 'He's a guy, he's a dude.' Because a woman was supposed to be dressed cute and shut up and just accept it. And, at this point, I'm like, 'I don't care what kind of sex I belong to, I need to show that should not happen anymore.'
 
 </details>
 
 <details>
 <summary>Concept Evolution</summary>
-
+Creating an image with no directive and accepting failer as an option but more as a learning oppurtuity and changing the vocabluary. 
 _Describe how your concepts evolved for this project._
 
 </details>
