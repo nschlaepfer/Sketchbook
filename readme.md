@@ -197,18 +197,26 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Assignments</summary>
 <img width="1460" alt="Screenshot 2023-06-14 at 9 54 59 PM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/6794730c-46aa-44e7-94ac-78e0e533a183">
+
+Three things I Could use for my creative process after reading the provided pdf. 
+
+1. Open-mindedness: Creative individuals are open to new ideas and perspectives. They are willing to explore unconventional paths and challenge the status quo.
+
+2. Curiosity: Creative individuals have a natural curiosity and a desire to learn. They are constantly seeking new knowledge and experiences, which fuels their creative thinking.
+
+3. Persistence: Creative individuals are not discouraged by obstacles or failures. They have the determination and resilience to keep pushing forward and finding innovative solutions.
 </details>
 
 
 ---
 
-## Week 3: [Topic]
+## Week 3: [Art of Noticing]
 ### June 26, 2023
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: Art of noticing releavant things
+- Idea 2: lateral thinking
 - ...
 
 </details>
@@ -216,7 +224,7 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Notes</summary>
 
-- **Key Terms:** Definitions here.
+- **Key Terms:** Lateral thinking: step by step contrasts lateral and vertical thinking.
 - **Class Notes:** Your class notes here.
 - **Reading Notes:** Your reading notes here.
 
@@ -233,7 +241,7 @@ _Describe how your concepts evolved for this project._
 <summary>Daily Thoughts</summary>
 
 - **Quotes:** Your quotes here.
-- **Key Points:** Your key points here.
+- **Key Points:** Thinking in different dimentions requires step by step thinking.
 - **Planning:** Your planning notes here.
 
 </details>
@@ -241,25 +249,25 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Visuals</summary>
 
+![image](https://github.com/nschlaepfer/Sketchbook/assets/44988633/53a4a6f3-6b51-4f02-bba2-ec6f0ce21a87)
 
 
 </details>
 
 <details>
 <summary>Assignments</summary>
-<img width="1460" alt="Screenshot 2023-06-14 at 9 54 59 PM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/7c897e43-b5f1-49b7-8ef6-00751adb625b">
-
+<img width="454" alt="Screen Shot 2023-06-27 at 11 01 56 AM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/b3de614b-2c60-405d-9489-97156f7ab90f">
 
 </details>
 
 
-## Week 4: [Topic]
+## Week 4: [What is Creativity?]
 ### July 3, 2023
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: Creativity is Contagious
+- Idea 2: Connections
 - ...
 
 </details>
@@ -267,10 +275,18 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Notes</summary>
 
-- **Key Terms:** Definitions here.
+- **Key Terms:** Inovation, Evolution, Serendipitous, physical space
 - **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Reading Notes:** Lesson 7: Serendipitous discoveries can be facilitated by a shared intellectual or physical space.
+When ideas converge in a shared physical or intellectual space, through for example people from different disciplines meeting, creative collisions happen. Consider the modernist cultural innovations of the 1920s. Many of them were largely a result of artists, poets and writers meeting at the same Parisian cafés. Shared interactions allow ideas to diffuse, circulate and be combined randomly with others.
 
+On an individual level, facilitating such serendipitous connections is simply a matter of simultaneously introducing ideas from different disciplines into your consciousness. Innovators like Benjamin Franklin and Charles Darwin favored working on multiple projects simultaneously, in a kind of slow multitasking mode. One project would take center stage for days at a time, but linger at the back of the mind afterwards too, so connections between projects could be drawn.
+
+The philosopher John Locke understood the importance of cross-referencing as early on as 1652, when he began developing an elaborate system for indexing the content of his commonplace book, essentially a scrapbook of interesting thoughts and findings. Such books formed his repository of ideas and hunches, maturing and waiting to be connected to new ideas.
+
+On an organizational level, the key to innovation and inspiration is a network which allows hunches to mature, scatter and combine with others openly.
+
+The greatest such network in existence is, of course, the World Wide Web, where a wealth of ideas is not only available, but hyper-linked for easy connections between several disciplines.
 </details>
 
 <details>
@@ -283,7 +299,7 @@ _Describe how your concepts evolved for this project._
 <details>
 <summary>Daily Thoughts</summary>
 
-- **Quotes:** Your quotes here.
+- **Quotes:** “Creativity is contagious, pass it on” – Albert Einstein
 - **Key Points:** Your key points here.
 - **Planning:** Your planning notes here.
 
@@ -291,6 +307,7 @@ _Describe how your concepts evolved for this project._
 
 <details>
 <summary>Visuals</summary>
+<img width="595" alt="Screen Shot 2022-06-26 at 11 31 53 PM" src="https://github.com/nschlaepfer/Sketchbook/assets/44988633/b540f27b-df31-454e-a287-44d36095bf21">
 
 
 
@@ -298,16 +315,32 @@ _Describe how your concepts evolved for this project._
 
 <details>
 <summary>Assignments</summary>
+![IMG_0921](https://github.com/nschlaepfer/Sketchbook/assets/44988633/f106c0a8-df22-48a5-99f1-b8e89e32d168)
+![1688184301 204025](https://github.com/nschlaepfer/Sketchbook/assets/44988633/eabb90c0-a84f-4ce7-9218-75c8ca99b658)
+
+1. Lateral Thinking and Vertical Thinking are distinct methods of problem-solving and idea generation. Lateral Thinking involves a nontraditional, 'outside-the-box' approach, while Vertical Thinking follows a more conventional, linear process. Both play crucial roles in idea generation and problem-solving, but their utilization can greatly depend on the nature of the problem and the desired solution that is currently at hand.
+    
+2. Creativity and Innovation through Collaboration: Innovation often comes from the of diverse ideas and perspectives. Collaboration provides a platform for these diverse ideas to interact and amalgamate. The synergistic effect of collaboration often results in creative solutions that would not have been possible by individuals working in isolation. Additionally, adopting new methods like observation and unfamiliar ways of thinking can further foster creativity. Observation can help identify patterns or details that others may overlook, leading to unique insights. Embracing unfamiliar ways of thinking can break habitual thought patterns and open new pathways for innovative solutions.
+    
+3. Given the inability to access the specific readings and videos, I'll provide general examples of how new ways of thinking can be applied:
+    
+    Disadvantages of the System: An example could be challenging existing systems and practices in an organization. This might involve questioning the efficiency of current processes or the efficacy of traditional methodologies, thus creating room for innovation and improvement. (Old Ideas sometimes die)
+        
+    Creativity is Contagious: This could relate to the idea that exposure to creative individuals or environments can stimulate our own creativity. For instance, a workplace that encourages free expression of ideas and fosters a culture of innovation can influence its members to think creatively. (I think of Apple)
+        
+    The Art of Noticing: This might be about the value of observation in fostering creativity. For instance, a designer might draw inspiration from patterns in nature, or a marketer might develop a new campaign based on subtle shifts in consumer behavior.
+        
+4. Imagined Scenario: In a research institute, I imagen a "Cross-Disciplinary Collaboration Day." On this day, researchers from different fields would come together to share their work and brainstorm solutions for real world complex, real-world problems. For instance, an environmental scientist, a computer scientist, and a sociologist might collaborate to develop a comprehensive model for predicting and mitigating the impacts of climate change on human societies. 
 
 </details>
 
-## Week 5: [Topic]
+## Week 5: [Empathy Fuels Connection]
 ### July 10, 2023
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: Restructuring Thinking Patterns
+- Idea 2: Empathy: Connections facilitate ideas
 - ...
 
 </details>
@@ -316,8 +349,8 @@ _Describe how your concepts evolved for this project._
 <summary>Notes</summary>
 
 - **Key Terms:** Definitions here.
-- **Class Notes:** Your class notes here.
-- **Reading Notes:** Your reading notes here.
+- **Class Notes:** The philosopher John Locke understood the importance of cross-referencing as early on as 1652, when he began developing an elaborate system for indexing the content of his commonplace book, essentially a scrapbook of interesting thoughts and findings. Such books formed his repository of ideas and hunches, maturing and waiting to be connected to new ideas.
+- **Reading Notes:** A cliche is a stereotyped phrase, a stereotyped way of looking at something or describing something. But cliches refer not only to arrangements of ideas but to ideas themselves. It is usually assumed that basic ideas are sound and then one starts fitting them together to give different patterns. But the basic ideas are themselves patterns that can be reconstructed. It is the purpose of lateral thinking to challenge any assumption for it is the purpose of lateral thinking to try and restructure any pattern. General agreement about an assumption is no guarantee that it is correct. It is historical continuity that maintains most assumptions - not a repeated assent of their validity. & The most basic principle of lateral thinking is that any particular way of looking at things is only one from among many other possible ways. Lateral thinking is concerned with exploring these other ways by restructuring and rearranging the information that is available. The very word ‘lateral’ suggests the movement sideways to generate alternative patterns instead of moving straight ahead with the development of one particular pattern. This is indicated in the diagrams opposite.
 
 </details>
 
@@ -346,16 +379,19 @@ _Describe how your concepts evolved for this project._
 
 <details>
 <summary>Assignments</summary>
+![IMG_1050](https://github.com/nschlaepfer/Sketchbook/assets/44988633/26d3dec5-92c9-4f3e-9e30-953d07208a15)
+![IMG_1051](https://github.com/nschlaepfer/Sketchbook/assets/44988633/b0235e5a-cece-4e6c-a17b-4fba4982cbff)
+![IMG_1052](https://github.com/nschlaepfer/Sketchbook/assets/44988633/30dd5839-89bf-452f-a6b5-c4a9738ec5dc)
 
 </details>
 
-## Week 6: [Topic]
+## Week 6: [Data Collecting]
 ### July 17, 2023
 <details>
 <summary>Main Ideas</summary>
 
-- Idea 1
-- Idea 2
+- Idea 1: Failure is Good
+- Idea 2: 
 - ...
 
 </details>
@@ -397,7 +433,7 @@ _Describe how your concepts evolved for this project._
 
 </details>
 
-## Week 7: [Topic]
+## Week 7: [Creative Problem Solving]
 ### June 24, 2023
 <details>
 <summary>Main Ideas</summary>
@@ -446,6 +482,53 @@ _Describe how your concepts evolved for this project._
 </details>
 
 
+## Week 8: [Creativity and the Unconscious]
+### June 24, 2023
+<details>
+<summary>Main Ideas</summary>
+
+- Idea 1
+- Idea 2
+- ...
+
+</details>
+
+<details>
+<summary>Notes</summary>
+
+- **Key Terms:** Definitions here.
+- **Class Notes:** Your class notes here.
+- **Reading Notes:** Your reading notes here.
+
+</details>
+
+<details>
+<summary>Concept Evolution</summary>
+
+_Describe how your concepts evolved for this project._
+
+</details>
+
+<details>
+<summary>Daily Thoughts</summary>
+
+- **Quotes:** Your quotes here.
+- **Key Points:** Your key points here.
+- **Planning:** Your planning notes here.
+
+</details>
+
+<details>
+<summary>Visuals</summary>
+
+
+
+</details>
+
+<details>
+<summary>Assignments</summary>
+
+</details>
 
 ## Conclusion
 _Final thoughts and reflections on the course._
